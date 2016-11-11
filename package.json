@@ -1,0 +1,20 @@
+{
+  "name": "miniature-spork",
+  "version": "1.0.0",
+  "description": "A simple project to display a list of numbers and strings responding to some constraints",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chasse-s/miniature-spork.git"
+  },
+  "author": "Sarah Chasseuil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chasse-s/miniature-spork/issues"
+  },
+  "homepage": "https://github.com/chasse-s/miniature-spork#readme"
+}
